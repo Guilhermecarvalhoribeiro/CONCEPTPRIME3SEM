@@ -69,3 +69,8 @@ _Sprint 1_
 _Sprint 2_
 
 ![20240907_130532.jpg](https://github.com/user-attachments/assets/4be4b52a-55fb-4359-a1ae-8a8a7426b0e9)
+
+_Sprint 3_
+
+![20240907_130606.jpg](https://github.com/user-attachments/assets/4e9552ab-428a-44cc-b28a-7cb64178a633)
+
