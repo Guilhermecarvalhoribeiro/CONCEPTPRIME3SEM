@@ -30,3 +30,15 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 • criação de um visualizador de indicadores em BI
  
 • aplicação do método de transportes para otimização da distribuição
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+# Objetivo do Projeto
+
+• Uma estrutura de banco de dados relacional
+
+• Uma tela de BI mostre a produtividade mensal dos veículos (relação entre outputs e inputs) e indicadores gerais
+ 
+• Uma tela BI com evolução dos custos por km de cada rota, filtrando por fábricas
+ 
+• Uma tela BI com evolução dos custos por unidade transportada de cada rota, filtrando por fábricas
