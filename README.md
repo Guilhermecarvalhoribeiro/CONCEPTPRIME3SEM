@@ -14,7 +14,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 * Objetivo do Projeto
 * Sprints e relatórios
 * Backlog do produto
-* Equipe
+* Equipe funções
 * Competências desenvolvidas
 * Autores
 
