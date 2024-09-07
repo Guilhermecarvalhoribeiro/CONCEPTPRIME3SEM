@@ -35,10 +35,13 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 
 # Objetivo do Projeto
 
-• Uma estrutura de banco de dados relacional
 
-• Uma tela de BI mostre a produtividade mensal dos veículos (relação entre outputs e inputs) e indicadores gerais
+Este estudo tem como objetivo demonstrar conhecimento dos conceitos de custos logisticos e aplicar conhecimento de produtividade em contexto real desenvolvendo a modelagem para problema de otimização aplicando linguagem da programação (Python) para resolver problemas de otimização, saber usar (com ajuda ou autonomia) as tecnologias para capturar, tratar, organizar, armazenar e apresentar dados característicos.
+
+• Estruturação do banco de dados relacional;
+
+• Uma tela de BI mostre a produtividade mensal dos veículos (relação entre outputs e inputs) e indicadores gerais;
  
-• Uma tela BI com evolução dos custos por km de cada rota, filtrando por fábricas
+• Uma tela BI com evolução dos custos por km de cada rota, filtrando por fábricas;
  
-• Uma tela BI com evolução dos custos por unidade transportada de cada rota, filtrando por fábricas
+• Uma tela BI com evolução dos custos por unidade transportada de cada rota, filtrando por fábricas.
