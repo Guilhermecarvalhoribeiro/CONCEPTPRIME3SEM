@@ -44,3 +44,16 @@ Este estudo tem como objetivo demonstrar conhecimento dos conceitos de custos lo
 • Uma tela BI com evolução dos custos por km de cada rota, filtrando por fábricas;
  
 • Uma tela BI com evolução dos custos por unidade transportada de cada rota, filtrando por fábricas.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# Sprints e Relatórios
+
+
+| Sprint | Previsão de entrega | Status           | Histórico |
+|:--:|:----------:|:-------------------|:-------------------------------------------------:|
+| 01 | 15/04/2024 |  Em Andamento   | [Relatório](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/files/15000826/DOCUMENTO.SPRINT.1.1.docx)|
+| 02 | 06/05/2024 | Em Andamento   | [Relatório](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/files/15227733/RELATORIO.API.-.SPRINT.2.Concept.1.docx)|
+| 03 | 27/05/2024 |  Em Andamento | [Relatório](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/files/15462388/RELATORIO.API.-.SPRINT.3.-.Copiar.docx)
+| 04 | 17/06/2024 |   Em Andamento   | [Relatório](https://github.com/user-attachments/files/15878318/RELATORIO.API.-.SPRINT.4.-.1.docx)|
