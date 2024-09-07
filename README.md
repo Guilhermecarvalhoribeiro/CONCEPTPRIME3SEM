@@ -16,7 +16,6 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 * Backlog do produto
 * Equipe funções
 * Competências desenvolvidas
-* Autores
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
