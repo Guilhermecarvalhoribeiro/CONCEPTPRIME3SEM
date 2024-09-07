@@ -12,7 +12,6 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 # Índice
 * Projeto
 * Objetivo do Projeto
-* Registros (vídeos e apresentações) das sprints
 * Cronograma das Sprints
 * Backlog do produto
 * Competências desenvolvidas
