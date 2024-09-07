@@ -60,4 +60,8 @@ Este estudo tem como objetivo demonstrar conhecimento dos conceitos de custos lo
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-#Backlog do Produto 
+# Backlog do Produto 
+
+_Sprint 1_
+
+![20240907_130453.jpg](https://github.com/user-attachments/assets/8ba2832d-e62d-4532-b3ff-332ae87e83c3)
