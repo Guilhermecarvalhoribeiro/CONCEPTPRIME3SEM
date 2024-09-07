@@ -65,3 +65,7 @@ Este estudo tem como objetivo demonstrar conhecimento dos conceitos de custos lo
 _Sprint 1_
 
 ![20240907_130453.jpg](https://github.com/user-attachments/assets/8ba2832d-e62d-4532-b3ff-332ae87e83c3)
+
+_Sprint 2_
+
+![20240907_130532.jpg](https://github.com/user-attachments/assets/4be4b52a-55fb-4359-a1ae-8a8a7426b0e9)
