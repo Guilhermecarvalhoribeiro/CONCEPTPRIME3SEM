@@ -68,7 +68,7 @@ _Sprint 1_
 
 _Sprint 2_
 
-![image](https://github.com/user-attachments/assets/72ae68d6-cb8b-4920-a15e-48b3f7b7df7d)
+![Captura de tela 2024-10-11 200512](https://github.com/user-attachments/assets/15360e5d-82fa-4e42-bd0e-35ee2fd7c154)
 
 
 _Sprint 3_
