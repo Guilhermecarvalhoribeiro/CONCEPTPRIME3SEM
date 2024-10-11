@@ -73,7 +73,7 @@ _Sprint 2_
 
 _Sprint 3_
 
-![20240907_130606.jpg](https://github.com/user-attachments/assets/4e9552ab-428a-44cc-b28a-7cb64178a633)
+![Captura de tela 2024-10-11 200546](https://github.com/user-attachments/assets/c0647985-7a83-4d7d-be4f-0e2b1e8d2cf7)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
