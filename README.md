@@ -63,7 +63,7 @@ Este estudo tem como objetivo demonstrar conhecimento dos conceitos de custos lo
 
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------:|:-------------------------------------------------:|
-| 01 | 27/09/2024 |  Em Andamento   |             |[Relatório](github.com/user-attachments/files/17171144/RELATORIO.SPRINT.1.docx)|
+| 01 | 27/09/2024 |  Em Andamento   |             |[Relatório](DOCUMENTO.SPRINT.1.1.docx24.docx)|
 | 02 | 18/10/2024 | Em Andamento   |               | [Relatório](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/files/15227733/RELATORIO.API.-.SPRINT.2.Concept.1.docx)|
 | 03 | 08/11/2024 |  Em Andamento |                |[Relatório](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/files/15462388/RELATORIO.API.-.SPRINT.3.-.Copiar.docx)
 | 04 | 29/11/2024 |   Em Andamento   |             | [Relatório](https://github.com/user-attachments/files/15878318/RELATORIO.API.-.SPRINT.4.-.1.docx)|
@@ -71,7 +71,7 @@ Este estudo tem como objetivo demonstrar conhecimento dos conceitos de custos lo
 
 | Sprint | Previsão de entrega | Status |Conteúdo |Histórico |
 |:--:|:----------:|:-------------------: | :----------: | :-------------------------------------------------: |
-| 01 | 27/09/2024 |  Concluído     | [Relatório]( )|              |[Relatório](https://github.com/user-attachments/files/17171144/RELATORIO.SPRINT.1.docx)|
+| 01 | 27/09/2024 |  Concluído     | [Relatório]( )|              |[Relatório](DOCUMENTO.SPRINT.1.1.docx24.docx)|
 | 02 | 18/10/2024 | Concluído      |  [Relatório]( )    |          |[Relatório](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/files/15227733/RELATORIO.API.-.SPRINT.2.Concept.1.docx)|
 | 03 | 08/11/2024 |  Em Andamento  | [Relatório]( )     |              |[Relatório](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/files/15462388/RELATORIO.API.-.SPRINT.3.-.Copiar.docx)
 | 04 | 29/11/2024 |   Em Andamento | [Relatório]( )     |              |[Relatório](https://github.com/user-attachments/files/15878318/RELATORIO.API.-.SPRINT.4.-.1.docx)|
