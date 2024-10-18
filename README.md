@@ -81,7 +81,7 @@ Este estudo tem como objetivo demonstrar conhecimento dos conceitos de custos lo
 | Sprint | Previsão de entrega | Status |Conteúdo |Histórico |
 |:--:|:----------:|:-------------------: | :----------: | :-------------------------------------------------: |
 | 01 | 27/09/2024 |  Concluído     | [Relatório](https://fatecspgov.sharepoint.com/:w:/r/sites/ProjetoAPI22/Shared%20Documents/General/API%203/[DOCUMENTO.SPRINT.1.1.docx24.docx](https://fatecspgov.sharepoint.com/:w:/r/sites/ProjetoAPI22/Shared%20Documents/General/API%203/DOCUMENTO.SPRINT.1.1.docx24.docx?d=wfab9a11c7ac84d45816fdafc475338a4&csf=1&web=1&e=zh3Yp9)?d=wfab9a11c7ac84d45816fdafc475338a4&csf=1&web=1&e=zh3Yp9)|
-| 02 | 18/10/2024 | Concluído      | [Relatório](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/files/15227733/RELATORIO.API.-.SPRINT.2.Concept.1.docx)|
+| 02 | 18/10/2024 | Concluído      | [Relatório](https://fatecspgov-my.sharepoint.com/:w:/r/personal/elisama_silva_fatec_sp_gov_br/Documents/Microsoft%20Teams%20Chat%20Files/[RELATORIO.SPRINT.2.docx](https://fatecspgov-my.sharepoint.com/:w:/r/personal/elisama_silva_fatec_sp_gov_br/Documents/Microsoft%20Teams%20Chat%20Files/RELATORIO.SPRINT.2.docx?d=w7698961efdf54c59bc9d1ed646c2b80d&csf=1&web=1&e=HsU7Yr)?d=w7698961efdf54c59bc9d1ed646c2b80d&csf=1&web=1&e=HsU7Yr)|
 | 03 | 08/11/2024 |  Em Andamento  | [Relatório](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/files/15462388/RELATORIO.API.-.SPRINT.3.-.Copiar.docx)
 | 04 | 29/11/2024 |   Em Andamento | [Relatório](https://github.com/user-attachments/files/15878318/RELATORIO.API.-.SPRINT.4.-.1.docx)|
 ------------------------------------------------------------------------------------------------------------------------------------------
