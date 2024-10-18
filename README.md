@@ -99,7 +99,10 @@ _Sprint 2_
 
 _Sprint 3_
 
-![Captura de tela 2024-10-11 200546](https://github.com/user-attachments/assets/c0647985-7a83-4d7d-be4f-0e2b1e8d2cf7)
+![IMG-20241018-WA0074.jpg](https://github.com/user-attachments/assets/ed0d3be8-7efe-4b3f-b313-e0cf2091c70e)
+
+_Sprint 4_
+
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
