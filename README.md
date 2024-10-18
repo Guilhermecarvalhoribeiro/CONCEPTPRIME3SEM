@@ -46,6 +46,17 @@ Este estudo tem como objetivo demonstrar conhecimento dos conceitos de custos lo
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
+# Missão, Visão e Valores
+
+
+* Missão: Entregar todos os resultados com qualidade.
+
+* Visão: Evoluir conforme o mercado, tornando-se referência com feedbacks positivos.
+
+* Valores: Planejamento, organização, qualidade, responsabilidade e comprometimento.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
 
 # Sprints e relatórios
 
