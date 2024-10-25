@@ -70,11 +70,11 @@ Este estudo tem como objetivo demonstrar conhecimento dos conceitos de custos lo
 
 
 | Sprint | Previsão de entrega | Passo-a-Passo|  Status           | Histórico |
-|:--:|:----------:|:-----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 27/09/2024 |             | Concluída    | [Relatório](https://github.com/user-attachments/files/17441616/DOCUMENTO.SPRINT.1.1.docx24.docx)|
-| 02 | 18/10/2024 |             | Concluída    | [Relatório](https://github.com/user-attachments/files/17441645/RELATORIO.SPRINT.2.docx)|
-| 03 | 08/11/2024 |             |Em Andamento  | [Relatório](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/files/15462388/RELATORIO.API.-.SPRINT.3.-.Copiar.docx)
-| 04 | 29/11/2024 |             | Em Andamento | [Relatório](https://github.com/user-attachments/files/15878318/RELATORIO.API.-.SPRINT.4.-.1.docx)|
+|:--:|:----------:|:-------------:|:-------------------|:-------------------------------------------------:|
+| 01 | 27/09/2024 | [Relatório]() | Concluída    | [Relatório](https://github.com/user-attachments/files/17441616/DOCUMENTO.SPRINT.1.1.docx24.docx)|
+| 02 | 18/10/2024 | [Relatório]() | Concluída    | [Relatório](https://github.com/user-attachments/files/17441645/RELATORIO.SPRINT.2.docx)|
+| 03 | 08/11/2024 | [Relatório]() |Em Andamento  | [Relatório](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/files/15462388/RELATORIO.API.-.SPRINT.3.-.Copiar.docx)
+| 04 | 29/11/2024 | [Relatório]() | Em Andamento | [Relatório](https://github.com/user-attachments/files/15878318/RELATORIO.API.-.SPRINT.4.-.1.docx)|
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
