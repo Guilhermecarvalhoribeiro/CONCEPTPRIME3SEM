@@ -77,7 +77,7 @@ Este estudo tem como objetivo demonstrar conhecimento dos conceitos de custos lo
 
 | Demanda              |
 |:--------------------:|
-| [Relatório]()        |
+| [Relatório]()                     |
 
 | Valor de Frete       |
 |:--------------------:|
