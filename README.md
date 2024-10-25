@@ -59,7 +59,7 @@ Este estudo tem como objetivo demonstrar conhecimento dos conceitos de custos lo
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# Sprints e relatórios
+# Sprints e Relatórios
 
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
@@ -70,7 +70,7 @@ Este estudo tem como objetivo demonstrar conhecimento dos conceitos de custos lo
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-| Conteúdo | Documentos | 
+| Conteúdo | Documento | 
 |:--:|:----------:|
 | Distância |  [Relatório](https://fatecspgov-my.sharepoint.com/:w:/r/personal/elisama_silva_fatec_sp_gov_br/Documents/Microsoft%20Teams%20Chat%20Files/Passo%20a%20Passo%20do%20c%C3%A1lculo%20de%20dist%C3%A2ncia.docx?d=wbc13d637495d48d98d1ca13bcf211474&csf=1&web=1&e=6WZePj) | 
 | Demanda | [Relatório](https://fatecspgov-my.sharepoint.com/:w:/r/personal/elisama_silva_fatec_sp_gov_br/Documents/Microsoft%20Teams%20Chat%20Files/Passo%20a%20Passo%20para%20demanda.docx?d=w53506006b138425eae12be0063e069fe&csf=1&web=1&e=6EjTAa) |
