@@ -71,13 +71,21 @@ Este estudo tem como objetivo demonstrar conhecimento dos conceitos de custos lo
 
 # Conteúdo 
 
-| Cálculo de Distância | Demanda | Valor de Frete |
-|:--------------------:|:-------:|:--------------:|
-|[Relatório]()         | [Relatório]()| [Relatório]() |
+| Cálculo de Distância | 
+|:--------------------:|
+| [Relatório](https://fatecspgov-my.sharepoint.com/:w:/r/personal/elisama_silva_fatec_sp_gov_br/Documents/Microsoft%20Teams%20Chat%20Files/Passo%20a%20Passo%20do%20c%C3%A1lculo%20de%20dist%C3%A2ncia.docx?d=wbc13d637495d48d98d1ca13bcf211474&csf=1&web=1&e=6WZePj)                     |
 
+| Demanda              |
+|:--------------------:|
+| [Relatório]()        |
+
+| Valor de Frete       |
+|:--------------------:|
+| [Relatório]()        |
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+
 
 # Backlog do produto 
 
