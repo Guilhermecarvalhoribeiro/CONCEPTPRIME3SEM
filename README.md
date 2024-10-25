@@ -77,7 +77,7 @@ Este estudo tem como objetivo demonstrar conhecimento dos conceitos de custos lo
 
 | Demanda              |
 |:--------------------:|
-| [Relatório]()                     |
+| [Relatório](https://fatecspgov-my.sharepoint.com/:w:/r/personal/elisama_silva_fatec_sp_gov_br/Documents/Microsoft%20Teams%20Chat%20Files/Passo%20a%20Passo%20para%20demanda.docx?d=w53506006b138425eae12be0063e069fe&csf=1&web=1&e=6EjTAa)                     |
 
 | Valor de Frete       |
 |:--------------------:|
