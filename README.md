@@ -24,11 +24,11 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 
 • Análise de produtividade de veículos, de otimização de distribuição e de custo de rotas de uma empresa embarcadora de carga com:
  
-• criação e modelagem de um banco de dados em SQL
+• Criação e modelagem de um banco de dados em SQL
  
-• criação de um visualizador de indicadores em BI
+• Criação de um visualizador de indicadores em BI
  
-• aplicação do método de transportes para otimização da distribuição
+• Aplicação do método de transportes para otimização da distribuição
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
