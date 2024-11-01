@@ -104,7 +104,9 @@ _Sprint 4_
 # Dashboard
 
 _Sprint 2_
-# Visão Geral
+*Visão Geral*
+
+![Mídia](https://github.com/user-attachments/assets/17c36dc3-2ead-4557-b1ab-21edc64f3c44)
 
 
 
