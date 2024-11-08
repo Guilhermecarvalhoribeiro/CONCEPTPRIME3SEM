@@ -12,7 +12,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 # Índice
 * Projeto
 * Objetivo do Projeto
-* Missão,visão e Valores 
+* Missão, visão e Valores 
 * Sprints e relatórios
 * Backlog do produto
 * Dashboard
@@ -125,6 +125,15 @@ _Sprint 2_
 *Custo Unitário*
 
 ![Mídia (2)](https://github.com/user-attachments/assets/9ade0053-fbe3-4f78-ae85-e92d4d0367a8)
+
+
+
+_Sprint 3_ 
+*Visão Geral*
+
+
+
+
 
 
 
