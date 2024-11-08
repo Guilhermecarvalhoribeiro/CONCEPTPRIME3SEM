@@ -131,7 +131,10 @@ _Sprint 2_
 _Sprint 3_ 
 *Visão Geral*
 
-https://teams.microsoft.com/l/message/19:6078c08a-5394-4ca8-ab45-c53ec562926a_efa7dbf5-665c-455f-965e-e2f8d98fed10@unq.gbl.spaces/1731104482934?context=%7B%22contextType%22%3A%22chat%22%7D
+
+![image](https://github.com/user-attachments/assets/52bb938b-deea-40b2-8b71-39ebce009b22)
+
+
 
 _Sprint 3_
 *Análise de Veículos*
