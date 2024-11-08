@@ -106,14 +106,14 @@ _Sprint 4_
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-_Sprint 2_
+* _Sprint 2_
 *Visão Geral*
 
 ![Mídia](https://github.com/user-attachments/assets/17c36dc3-2ead-4557-b1ab-21edc64f3c44) 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-_Sprint 2_
+* _Sprint 2_
 *Análise De Veículos*
 
 ![Mídia (1)](https://github.com/user-attachments/assets/f06a63da-185f-4b67-8603-f34699bc262f)
@@ -121,14 +121,14 @@ _Sprint 2_
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-_Sprint 2_
+* _Sprint 2_
 *Custo Unitário*
 
 ![Mídia (2)](https://github.com/user-attachments/assets/9ade0053-fbe3-4f78-ae85-e92d4d0367a8)
 
 
 
-_Sprint 3_ 
+* _Sprint 3_ 
 *Visão Geral*
 
 
@@ -136,8 +136,20 @@ _Sprint 3_
 
 
 
-_Sprint 3_
+* _Sprint 3_
 *Análise de Veículos*
+
+![image](https://github.com/user-attachments/assets/25c11160-1cb4-4e58-b929-9fa4b0e32b9c)
+
+
+* _Sprint 3_
+*Custo Unitário*
+
+![image](https://github.com/user-attachments/assets/86c0747f-33dc-4668-b534-67162e199e8b)
+
+
+
+
 
 
 
