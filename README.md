@@ -152,6 +152,11 @@ _Sprint 4_
 *Visão Geral*
 ![IMG-20241129-WA0040.jpg](https://github.com/user-attachments/assets/68865b09-4d8b-4aaa-abb5-2c2611c787e0)
 
+* _Sprint 4_
+*Análise de Veículos*
+
+
+
 
 
 
