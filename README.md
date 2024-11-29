@@ -161,6 +161,8 @@ _Sprint 4_
 * _Sprint 4_
 *Custo Unitário*
 
+![IMG-20241129-WA0042.jpg](https://github.com/user-attachments/assets/3e10a32d-ec22-463f-abcc-e7e2c9198654)
+
 
 
 
