@@ -150,10 +150,17 @@ _Sprint 4_
 
 * _Sprint 4_ 
 *Visão Geral*
+
 ![IMG-20241129-WA0040.jpg](https://github.com/user-attachments/assets/68865b09-4d8b-4aaa-abb5-2c2611c787e0)
 
 * _Sprint 4_
 *Análise de Veículos*
+
+![IMG-20241129-WA0041.jpg](https://github.com/user-attachments/assets/79cebc4f-ce6d-4c3b-9714-ab5cdc2081a8)
+
+* _Sprint 4_
+*Custo Unitário*
+
 
 
 
