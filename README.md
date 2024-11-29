@@ -94,7 +94,7 @@ _Sprint 2_
 
 _Sprint 3_
 
-![IMG-20241018-WA0074.jpg](https://github.com/user-attachments/assets/ed0d3be8-7efe-4b3f-b313-e0cf2091c70e)
+![IMG-20241129-WA0043.jpg](https://github.com/user-attachments/assets/b8b6f8c7-2554-4299-a5e2-f971aa56eb84)
 
 _Sprint 4_
 
