@@ -72,11 +72,6 @@ Este estudo tem como objetivo analisar a eficiência dos terminais portuários.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-| Conteúdo | Documento | 
-|:--:|:----------:|
-| Distância |  [Relatório](https://fatecspgov-my.sharepoint.com/:w:/r/personal/elisama_silva_fatec_sp_gov_br/Documents/Microsoft%20Teams%20Chat%20Files/Passo%20a%20Passo%20do%20c%C3%A1lculo%20de%20dist%C3%A2ncia.docx?d=wbc13d637495d48d98d1ca13bcf211474&csf=1&web=1&e=6WZePj) | 
-| Demanda | [Relatório](https://fatecspgov-my.sharepoint.com/:w:/r/personal/elisama_silva_fatec_sp_gov_br/Documents/Microsoft%20Teams%20Chat%20Files/Passo%20a%20Passo%20para%20demanda.docx?d=w53506006b138425eae12be0063e069fe&csf=1&web=1&e=6EjTAa) |
-|  Frete   |  [Relatório](https://fatecspgov-my.sharepoint.com/:w:/r/personal/elisama_silva_fatec_sp_gov_br/Documents/Microsoft%20Teams%20Chat%20Files/Passo%20a%20Passo%20para%20valor%20de%20frete.docx?d=w49f6e60fc2f546639976731dab09ba83&csf=1&web=1&e=buuzMx)  | 
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -106,26 +101,12 @@ _Sprint 4_
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-* _Sprint 2_
+* _Sprint 1_
 
 
 
 
 * _Sprint 2_
-
-
-
-
-
-* _Sprint 2_
-
-
-
-
-------------------------------------------------------------------------------------------------------------------------------------------
-
-* _Sprint 3_ 
-
 
 
 
@@ -136,23 +117,20 @@ _Sprint 4_
 
 
 
-* _Sprint 3_
-
-
-
 ------------------------------------------------------------------------------------------------------------------------------------------
-
 
 * _Sprint 4_ 
 
 
 
-* _Sprint 4_
 
 
 
 
-* _Sprint 4_
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
@@ -166,11 +144,11 @@ _Sprint 4_
 
 |    Função     | Nome                                  |  LinkedIn & GitHub |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Eliel Maciel     |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elielmaciel2022?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ElielMaciel/Template)     |           
-| Scrum Master  | Rogério Augusto |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rog%C3%A9rio-augusto-85b115199/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/rogeriopereira01)     |
-| Developer Team | Cauã Francesco |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/cauafrancesco) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com)     |
+|  Developer Team |   Eliel Maciel     |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elielmaciel2022?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ElielMaciel/Template)     |           
+|  Developer Team | Rogério Augusto |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rog%C3%A9rio-augusto-85b115199/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/rogeriopereira01)     |
+| Scrum Master | Cauã Francesco |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/cauafrancesco) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com)     |
 |  Developer Team  | Elisama Israele             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elisama-silva-a11a3b277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ElisamaIsraele)      |
-| Developer Team | Felipe Rodrigues|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-rodrigues-silva-234249169?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Feliperodrigues17)     |
+| Product Owner  | Felipe Rodrigues|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-rodrigues-silva-234249169?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Feliperodrigues17)     |
 | Developer Team | Tassia Nataly |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-c-ribeiro-914245222) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Guilhermecarvalhoribeiro)     |
 | Developer Team | Josimar Santos|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josimar-santos-2b4329288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com)     |
 |  Developer Team | Leandro Ramos    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-ramos-193040277/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com)          |
