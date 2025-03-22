@@ -36,7 +36,8 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 # Objetivo do Projeto
 
 
-Este estudo tem como objetivo demonstrar conhecimento dos conceitos de custos logisticos e aplicar conhecimento de produtividade em contexto real desenvolvendo a modelagem para problema de otimização aplicando linguagem da programação (Python) para resolver problemas de otimização, saber usar (com ajuda ou autonomia) as tecnologias para capturar, tratar, organizar, armazenar e apresentar dados característicos.
+Este estudo tem como objetivo analisar a eficiência dos terminais portuários.
+
 
 • Estruturação do banco de dados relacional;
 
@@ -64,10 +65,10 @@ Este estudo tem como objetivo demonstrar conhecimento dos conceitos de custos lo
 
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 27/09/2024 | Concluído   | [Relatório](https://github.com/user-attachments/files/17441616/DOCUMENTO.SPRINT.1.1.docx24.docx)|
-| 02 | 18/10/2024 | Concluído    | [Relatório](https://github.com/user-attachments/files/17441645/RELATORIO.SPRINT.2.docx)|
-| 03 | 08/11/2024 | Concluído    | [Relatório](https://github.com/user-attachments/files/17962405/RELATORIO.SPRINT.3.docx)
-| 04 | 29/11/2024 | Concluído | [Relatório](https://github.com/user-attachments/files/17962423/RELATORIO.SPRINT.4-1.docx)|
+| 01 | 04/04/2025 | Em andamento   | [Relatório](https://github.com/user-attachments/files/17441616/DOCUMENTO.SPRINT.1.1.docx24.docx)|
+| 02 | 25/04/2025 | Em andamento    | [Relatório](https://github.com/user-attachments/files/17441645/RELATORIO.SPRINT.2.docx)|
+| 03 | 16/05/2025 | Em andamento    | [Relatório](https://github.com/user-attachments/files/17962405/RELATORIO.SPRINT.3.docx)
+| 04 | 27/06/2025 | Em andamento | [Relatório](https://github.com/user-attachments/files/17962423/RELATORIO.SPRINT.4-1.docx)|
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -85,20 +86,19 @@ Este estudo tem como objetivo demonstrar conhecimento dos conceitos de custos lo
 
 _Sprint 1_
 
-![IMG-20241018-WA0071.jpg](https://github.com/user-attachments/assets/a476a048-192e-4f30-99a8-bce005ef0e81)
+
 
 
 _Sprint 2_
 
-![IMG-20241018-WA0072.jpg](https://github.com/user-attachments/assets/3247b460-b669-4768-a8c6-2b908ffb2bda)
+
 
 _Sprint 3_
 
-![IMG-20241129-WA0043.jpg](https://github.com/user-attachments/assets/b8b6f8c7-2554-4299-a5e2-f971aa56eb84)
+
 
 _Sprint 4_
 
-![IMG-20241122-WA0069.jpg](https://github.com/user-attachments/assets/038c9933-ca64-473b-a954-826b020b7db0)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -107,61 +107,55 @@ _Sprint 4_
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 * _Sprint 2_
-*Visão Geral*
-
-![Mídia](https://github.com/user-attachments/assets/17c36dc3-2ead-4557-b1ab-21edc64f3c44) 
 
 
-* _Sprint 2_
-*Análise De Veículos*
-
-![Mídia (1)](https://github.com/user-attachments/assets/f06a63da-185f-4b67-8603-f34699bc262f)
 
 
 * _Sprint 2_
-*Custo Unitário*
 
-![Mídia (2)](https://github.com/user-attachments/assets/9ade0053-fbe3-4f78-ae85-e92d4d0367a8)
+
+
+
+
+* _Sprint 2_
+
+
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 * _Sprint 3_ 
-*Visão Geral*
 
 
-![image](https://github.com/user-attachments/assets/52bb938b-deea-40b2-8b71-39ebce009b22)
+
+
+
+
+* _Sprint 3_
+
 
 
 
 * _Sprint 3_
-*Análise de Veículos*
 
-![image](https://github.com/user-attachments/assets/25c11160-1cb4-4e58-b929-9fa4b0e32b9c)
-
-
-* _Sprint 3_
-*Custo Unitário*
-
-![image](https://github.com/user-attachments/assets/86c0747f-33dc-4668-b534-67162e199e8b)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 
 * _Sprint 4_ 
-*Visão Geral*
 
-![IMG-20241129-WA0040.jpg](https://github.com/user-attachments/assets/68865b09-4d8b-4aaa-abb5-2c2611c787e0)
 
-* _Sprint 4_
-*Análise de Veículos*
-
-![IMG-20241129-WA0041.jpg](https://github.com/user-attachments/assets/79cebc4f-ce6d-4c3b-9714-ab5cdc2081a8)
 
 * _Sprint 4_
-*Custo Unitário*
 
-![IMG-20241129-WA0042.jpg](https://github.com/user-attachments/assets/3e10a32d-ec22-463f-abcc-e7e2c9198654)
+
+
+
+* _Sprint 4_
+
+
+
 
 
 
@@ -177,7 +171,7 @@ _Sprint 4_
 | Developer Team | Cauã Francesco |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/cauafrancesco) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com)     |
 |  Developer Team  | Elisama Israele             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elisama-silva-a11a3b277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ElisamaIsraele)      |
 | Developer Team | Felipe Rodrigues|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-rodrigues-silva-234249169?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Feliperodrigues17)     |
-| Developer Team | Guilherme C. Ribeiro |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-c-ribeiro-914245222) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Guilhermecarvalhoribeiro)     |
+| Developer Team | Tassia Nataly |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-c-ribeiro-914245222) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Guilhermecarvalhoribeiro)     |
 | Developer Team | Josimar Santos|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josimar-santos-2b4329288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com)     |
 |  Developer Team | Leandro Ramos    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-ramos-193040277/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com)          |
 
