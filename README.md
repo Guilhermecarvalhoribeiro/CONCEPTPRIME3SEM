@@ -23,29 +23,41 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 
 # Projeto 
 
-• Análise de produtividade de veículos, de otimização de distribuição e de custo de rotas de uma empresa embarcadora de carga com:
+• Este estudo tem como objetivo analisar a eficiência dos terminais portuários.
+
+• Levantar e registrar requisitos usando técnicas de Métodos Ágeis e Tradicionais
  
-• Criação e modelagem de um banco de dados em SQL
+• Documentar adequadamente DoR e DoD
  
-• Criação de um visualizador de indicadores em BI
- 
-• Aplicação do método de transportes para otimização da distribuição
+• Planejar desenvolvimento do projeto (Backlog de produto e Backlog de Sprint)
+
+• Revisar código vendo suas estruturas de dados
+
+• Analisar os tempos de operação portuária 
+
+• Avaliar a eficiência entre terminais de operação
+
+• Analisar os top motivos de paradas de operação registradas
+
+• Implementar aplicação usando conceitos de orientação a objetos (ORM)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 # Objetivo do Projeto
 
 
-Este estudo tem como objetivo analisar a eficiência dos terminais portuários.
+O objetivo deste projeto é desenvolver uma plataforma de BI que disponibilize informações sobre a eficiência portuária com base nos tempos de processamentos nos portos brasileiros e dados específicos do setor.
 
 
-• Estruturação do banco de dados relacional;
+• Análise de Eficiência
 
-• Uma tela de BI mostre a produtividade mensal dos veículos (relação entre outputs e inputs) e indicadores gerais;
+• Avaliação dos tempos de operação
  
-• Uma tela BI com evolução dos custos por km de cada rota, filtrando por fábricas;
+• Análise de paradas portuárias
  
-• Uma tela BI com evolução dos custos por unidade transportada de cada rota, filtrando por fábricas.
+• Análise de movimentação
+
+• Análise de cargas 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
